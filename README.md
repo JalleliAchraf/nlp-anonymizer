@@ -2,6 +2,8 @@
 
 Anonymize sensitive information in text using AI and regex patterns.
 
+**Author**: Achraf Jalleli
+
 ## What it does
 - Names, locations, organizations
 - Emails, phone numbers, credit cards, dates
